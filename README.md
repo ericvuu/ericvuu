@@ -28,6 +28,11 @@ My new passion is writing clean and reusable code, leveraging my previous experi
 | JSON            | MongoDB   | Netlify                   |
 | AJAX            |           | Git & GitHub Pages        |
 
+|CMS and Ecommerce|
+| --------------- |
+|BigCommerce      |
+|Wordpress        |
+
 ## Please feel free to contact me!
 
 - ericlv91@gmail.com
