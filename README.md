@@ -16,7 +16,7 @@ npx ericvuu
 ## Languages & Technologies
 
 | Browser Based Technologies                 | Server Side Development | Computer Science |
-| ------------------------------------------ | ----------------------- | ---------------- |
+| :----------------------------------------- | :---------------------- | :--------------- |
 | React & Next.js                            | Node.js                 | Algorithms       |
 | Javascript, JQuery, JSX                    | Express                 | Data Structures  |
 | HTML & CSS (SASS, Bootstrap, Tailwind)     | User Authentication     | Big O Notation   |
@@ -31,7 +31,8 @@ npx ericvuu
 | --------------- | --------- | ------------------------- |
 | API             | MySQL     | Heroku                    |
 | JSON            | MongoDB   | Netlify                   |
-| AJAX            |           | Git & GitHub Pages        |
+| AJAX            | AWS       | Git                       |
+|                 | FireBase  |                           |
 
 |CMS and Ecommerce|
 | --------------- |
