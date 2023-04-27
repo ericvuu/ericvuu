@@ -17,10 +17,10 @@ My new passion is writing clean and reusable code, leveraging my previous experi
 | HTML & CSS (SASS, Bootstrap, Tailwind)     | User Authentication     | Time Complexity  |
 | Responsive Design                          | PWAs                    | Big O Notation   |
 | Handlebars                                 | Django                  | Data Structures  |
-| Local Storage, Session Storage, Indexed DB |                         |                  |
+| Local Storage, Session Storage, Indexed DB | Java                    |                  |
 | React & Next.js                            |                         |                  |
 | Python                                     |                         |                  |
-| Java & SpringBoot                          |                         |                  |
+
 
 | API Interaction | Databases | Deployment & Command-Line |
 | --------------- | --------- | ------------------------- |
