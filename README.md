@@ -18,10 +18,10 @@ npx ericvuu
 | Browser Based Technologies                 | Server Side Development | Computer Science |
 | ------------------------------------------ | ----------------------- | ---------------- |
 | React & Next.js                            | Node.js                 | Algorithms       |
-| Javascript, JQuery, JSX                    | Express                 | Efficiency       |
-| HTML & CSS (SASS, Bootstrap, Tailwind)     | User Authentication     | Time Complexity  |
-| Responsive Design                          | PWAs                    | Big O Notation   |
-| Handlebars                                 | Django                  | Data Structures  |
+| Javascript, JQuery, JSX                    | Express                 | Data Structures  |
+| HTML & CSS (SASS, Bootstrap, Tailwind)     | User Authentication     | Big O Notation   |
+| Responsive Design                          | PWAs                    | Data Structures  |
+| Handlebars                                 | Django                  |                  |
 | Local Storage, Session Storage, Indexed DB | Java                    |                  |
 | Python                                     |                         |                  |
 |                                            |                         |                  |
