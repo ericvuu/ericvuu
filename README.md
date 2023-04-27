@@ -8,7 +8,7 @@ I have worked within the non-profit sector before becoming a Web Developer and S
 
 My new passion is writing clean and reusable code, leveraging my previous experiences in problem solving with code and building user-friendly applications.
 
-## Known Languages & Technologies
+## Languages & Technologies
 
 | Browser Based Technologies                 | Server Side Development | Computer Science |
 | ------------------------------------------ | ----------------------- | ---------------- |
