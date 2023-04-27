@@ -32,7 +32,7 @@ npx ericvuu
 | API             | MySQL     | Heroku                    |
 | JSON            | MongoDB   | Netlify                   |
 | AJAX            | AWS       | Git                       |
-|                 | FireBase  |                           |
+|                 | Firebase  |                           |
 
 |CMS and Ecommerce|
 | --------------- |
