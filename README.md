@@ -8,6 +8,11 @@ I have worked within the non-profit sector before becoming a Web Developer and S
 
 My new passion is writing clean and reusable code, leveraging my previous experiences in problem solving with code and building user-friendly applications.
 
+Get my business card by running the following in your terminal!
+```bash
+npx ericvuu
+```
+
 ## Languages & Technologies
 
 | Browser Based Technologies                 | Server Side Development | Computer Science |
