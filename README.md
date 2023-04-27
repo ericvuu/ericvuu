@@ -12,14 +12,14 @@ My new passion is writing clean and reusable code, leveraging my previous experi
 
 | Browser Based Technologies                 | Server Side Development | Computer Science |
 | ------------------------------------------ | ----------------------- | ---------------- |
-| Wordpress, BigCommerce                     | Node.js                 | Algorithms       |
+| React & Next.js                            | Node.js                 | Algorithms       |
 | Javascript, JQuery, JSX                    | Express                 | Efficiency       |
 | HTML & CSS (SASS, Bootstrap, Tailwind)     | User Authentication     | Time Complexity  |
 | Responsive Design                          | PWAs                    | Big O Notation   |
 | Handlebars                                 | Django                  | Data Structures  |
 | Local Storage, Session Storage, Indexed DB | Java                    |                  |
-| React & Next.js                            |                         |                  |
 | Python                                     |                         |                  |
+|                                            |                         |                  |
 
 
 | API Interaction | Databases | Deployment & Command-Line |
