@@ -22,9 +22,9 @@ npx ericvuu
 | HTML & CSS (SASS, Bootstrap, Tailwind)     | User Authentication     | Big O Notation   |
 | Responsive Design                          | PWAs                    |                  |
 | Handlebars                                 | Django                  |                  |
-| Local Storage, Session Storage, Indexed DB | Java                    |                  |
-| Python                                     |                         |                  |
-|                                            |                         |                  |
+| Local and Session Storage                  | Flask                   |                  |
+|                                            | Python                  |                  |
+|                                            | Java & Spring Boot      |                  |
 
 
 | API Interaction | Databases | Deployment & Command-Line |
