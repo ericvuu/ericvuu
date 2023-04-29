@@ -2,7 +2,7 @@
 
 Hello, I'm Eric. 🤘🏼
 
-I'm a Software Developer from Orange County, CA.
+I'm a Web Developer from Orange County, CA.
 
 I have worked within the non-profit sector before becoming a Web Developer and Software Engineer gaining valuable experiences. I had the ability to serve individuals and families dealing with homelessness, managed volunteers looking to make an impact, worked at my local food bank to feed my community, and worked to support the local legal community in Orange County.
 
