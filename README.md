@@ -2,11 +2,17 @@
 
 Hello, I'm Eric. 🤘🏼
 
-I'm a Web Developer from Orange County, CA.
+I'm a Software Engineer from Orange County, CA.
 
-I have worked within the non-profit sector before becoming a Web Developer and Software Engineer gaining valuable experiences. I had the ability to serve individuals and families dealing with homelessness, managed volunteers looking to make an impact, worked at my local food bank to feed my community, and worked to support the local legal community in Orange County.
+My career has been shaped by a diverse set of experiences across the nonprofit, legal, and tech industries, each of which has strengthened my ability to solve problems and drive results.
 
-My new passion is writing clean and reusable code, leveraging my previous experiences in problem solving with code and building user-friendly applications.
+I started in the nonprofit sector, where I worked as a Food Sourcing Coordinator at Second Harvest Food Bank of Orange County. In this role, I led initiatives that used data-driven strategies to increase food donations, helping to support individuals and families facing homelessness.
+
+Next, I transitioned into the legal field, managing the Orange County Bar Association’s Mandatory Fee Arbitration Program under the guidance of the California State Bar. I oversaw key administrative functions, such as data management, document preparation, and coordination of legal communications, ensuring smooth case logistics and attention to detail.
+
+Motivated to pursue a career in technology, I made the shift to web and software development, where I gained proficiency in Python, Java, and the MERN stack through coding workshops. This allowed me to combine my problem-solving abilities with a deeper technical skill set.
+
+Today, I focus on writing efficient, reusable code and building applications that prioritize user experience. I’m passionate about using my diverse background to create innovative solutions that make a real impact.
 
 Get my business card by running the following in your terminal!
 ```bash
