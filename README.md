@@ -33,17 +33,19 @@ npx ericvuu
 
 
 
-| API Interaction | Databases | Deployment & Command-Line |
-| --------------- | --------- | ------------------------- |
-| API             | MySQL     | Heroku                    |
-| JSON            | MongoDB   | Netlify                   |
-| AJAX            | AWS       | Git                       |
-|                 | Firebase  |                           |
+| API Interaction | Databases | Deployment & Command-Line | DevOps     |
+| --------------- | --------- | ------------------------- | -----------|
+| API             | MySQL     | Heroku                    | Docker     |
+| JSON            | MongoDB   | Netlify                   | Kubernetes |
+| AJAX            | AWS       | Git                       | Terraform  |
+|                 | Firebase  |                           |            |
 
 |CMS and Ecommerce|
 | --------------- |
 |BigCommerce      |
 |Wordpress        |
+|Shopify          |
+|Drupal           |
 
 ## Please feel free to contact me!
 
